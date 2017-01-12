@@ -1,0 +1,22 @@
+C:\Users\dwishika\AppData\Local\Temporary Projects\Calculator\bin\Debug\Calculator.exe
+C:\Users\dwishika\AppData\Local\Temporary Projects\Calculator\bin\Debug\Calculator.pdb
+C:\Users\dwishika\AppData\Local\Temporary Projects\Calculator\obj\x86\Debug\Calculator.Form1.resources
+C:\Users\dwishika\AppData\Local\Temporary Projects\Calculator\obj\x86\Debug\Calculator.Properties.Resources.resources
+C:\Users\dwishika\AppData\Local\Temporary Projects\Calculator\obj\x86\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\dwishika\AppData\Local\Temporary Projects\Calculator\obj\x86\Debug\Calculator.exe
+C:\Users\dwishika\AppData\Local\Temporary Projects\Calculator\obj\x86\Debug\Calculator.pdb
+C:\Users\dwishika\Documents\Visual Studio 2010\Projects\Calculator\Calculator\obj\x86\Debug\Calculator.exe
+C:\Users\dwishika\Documents\Visual Studio 2010\Projects\Calculator\Calculator\obj\x86\Debug\Calculator.pdb
+C:\Users\dwishika\Documents\Visual Studio 2010\Projects\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\dwishika\Documents\Visual Studio 2010\Projects\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\dwishika\Documents\Visual Studio 2010\Projects\Calculator\Calculator\obj\x86\Debug\Calculator.Form1.resources
+C:\Users\dwishika\Documents\Visual Studio 2010\Projects\Calculator\Calculator\obj\x86\Debug\Calculator.Properties.Resources.resources
+C:\Users\dwishika\Documents\Visual Studio 2010\Projects\Calculator\Calculator\obj\x86\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\Owner\Desktop\Calculator\Calculator\Calculator\obj\x86\Debug\Calculator.exe
+C:\Users\Owner\Desktop\Calculator\Calculator\Calculator\obj\x86\Debug\Calculator.pdb
+C:\Users\Owner\Desktop\Calculator\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Owner\Desktop\Calculator\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Owner\Desktop\Calculator\Calculator\Calculator\obj\x86\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Desktop\Calculator\Calculator\Calculator\obj\x86\Debug\Calculator.Form1.resources
+C:\Users\Owner\Desktop\Calculator\Calculator\Calculator\obj\x86\Debug\Calculator.Properties.Resources.resources
+C:\Users\Owner\Desktop\Calculator\Calculator\Calculator\obj\x86\Debug\Calculator.csproj.GenerateResource.Cache
