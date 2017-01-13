@@ -20,3 +20,8 @@ C:\Users\Owner\Desktop\Calculator\Calculator\Calculator\obj\x86\Debug\Calculator
 C:\Users\Owner\Desktop\Calculator\Calculator\Calculator\obj\x86\Debug\Calculator.Form1.resources
 C:\Users\Owner\Desktop\Calculator\Calculator\Calculator\obj\x86\Debug\Calculator.Properties.Resources.resources
 C:\Users\Owner\Desktop\Calculator\Calculator\Calculator\obj\x86\Debug\Calculator.csproj.GenerateResource.Cache
+C:\git\C-Programming-Projects\Calculator\Calculator\obj\x86\Debug\Calculator.Form1.resources
+C:\git\C-Programming-Projects\Calculator\Calculator\obj\x86\Debug\Calculator.Properties.Resources.resources
+C:\git\C-Programming-Projects\Calculator\Calculator\obj\x86\Debug\Calculator.csproj.GenerateResource.Cache
+C:\git\C-Programming-Projects\Calculator\Calculator\obj\x86\Debug\Calculator.exe
+C:\git\C-Programming-Projects\Calculator\Calculator\obj\x86\Debug\Calculator.pdb

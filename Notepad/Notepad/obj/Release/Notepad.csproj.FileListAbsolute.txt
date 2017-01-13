@@ -1,0 +1,13 @@
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\Notepad\Notepad\bin\Release\Notepad.exe.config
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\Notepad\Notepad\bin\Release\Notepad.exe.manifest
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\Notepad\Notepad\bin\Release\Notepad.application
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\Notepad\Notepad\bin\Release\Notepad.exe
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\Notepad\Notepad\bin\Release\Notepad.pdb
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\Notepad\Notepad\obj\Release\Notepad.Form1.resources
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\Notepad\Notepad\obj\Release\Notepad.formAbout.resources
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\Notepad\Notepad\obj\Release\Notepad.Properties.Resources.resources
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\Notepad\Notepad\obj\Release\Notepad.csproj.GenerateResource.Cache
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\Notepad\Notepad\obj\Release\Notepad.exe.manifest
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\Notepad\Notepad\obj\Release\Notepad.application
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\Notepad\Notepad\obj\Release\Notepad.exe
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\Notepad\Notepad\obj\Release\Notepad.pdb
