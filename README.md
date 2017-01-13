@@ -9,3 +9,4 @@ Projects will be added as we progress through them in class...
 The following are projects I have created for fun to futher my practice in C#.
 * [Hello World](https://github.com/codersyntax/C-Programming-Projects/tree/master/Hello_World)
 * [Calculator](https://github.com/codersyntax/C-Programming-Projects/tree/master/Calculator)
+* [Notepad](https://github.com/codersyntax/C-Programming-Projects/tree/master/Notepad)
