@@ -16,3 +16,7 @@ The following are projects I have created for fun to futher my practice in C#.
 --> [View Screenshot](http://www.codersyntax.com/github_screenshots/calculator_screenshot.png)
 * [Notepad](https://github.com/codersyntax/C-Programming-Projects/tree/master/Notepad)
 --> [View Screenshot](http://www.codersyntax.com/github_screenshots/notepad_screenshot.png)
+* [LinkedListExample](https://github.com/codersyntax/C-Programming-Projects/tree/master/LinkedListExample)
+--> Screenshot not yet available
+* [Books](https://github.com/codersyntax/C-Programming-Projects/tree/master/Books)
+--> Screenshot not yet available

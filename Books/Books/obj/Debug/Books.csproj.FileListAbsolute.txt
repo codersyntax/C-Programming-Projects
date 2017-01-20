@@ -1,0 +1,5 @@
+C:\Users\Owner\Source\Repos\CSharpGettingStarted\Books\Books\bin\Debug\Books.exe.config
+C:\Users\Owner\Source\Repos\CSharpGettingStarted\Books\Books\bin\Debug\Books.exe
+C:\Users\Owner\Source\Repos\CSharpGettingStarted\Books\Books\bin\Debug\Books.pdb
+C:\Users\Owner\Source\Repos\CSharpGettingStarted\Books\Books\obj\Debug\Books.exe
+C:\Users\Owner\Source\Repos\CSharpGettingStarted\Books\Books\obj\Debug\Books.pdb

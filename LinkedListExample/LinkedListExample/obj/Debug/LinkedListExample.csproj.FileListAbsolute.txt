@@ -1,0 +1,6 @@
+C:\Users\Owner\Source\Repos\CSharpGettingStarted\LinkedListExample\LinkedListExample\bin\Debug\LinkedListExample.exe.config
+C:\Users\Owner\Source\Repos\CSharpGettingStarted\LinkedListExample\LinkedListExample\obj\Debug\LinkedListExample.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Source\Repos\CSharpGettingStarted\LinkedListExample\LinkedListExample\bin\Debug\LinkedListExample.exe
+C:\Users\Owner\Source\Repos\CSharpGettingStarted\LinkedListExample\LinkedListExample\bin\Debug\LinkedListExample.pdb
+C:\Users\Owner\Source\Repos\CSharpGettingStarted\LinkedListExample\LinkedListExample\obj\Debug\LinkedListExample.exe
+C:\Users\Owner\Source\Repos\CSharpGettingStarted\LinkedListExample\LinkedListExample\obj\Debug\LinkedListExample.pdb
