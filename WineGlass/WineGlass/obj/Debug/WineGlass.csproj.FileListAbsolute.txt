@@ -1,0 +1,6 @@
+C:\Users\Owner\Source\Repos\CSharpGettingStarted\WineGlass\WineGlass\bin\Debug\WineGlass.exe.config
+C:\Users\Owner\Source\Repos\CSharpGettingStarted\WineGlass\WineGlass\bin\Debug\WineGlass.exe
+C:\Users\Owner\Source\Repos\CSharpGettingStarted\WineGlass\WineGlass\bin\Debug\WineGlass.pdb
+C:\Users\Owner\Source\Repos\CSharpGettingStarted\WineGlass\WineGlass\obj\Debug\WineGlass.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Source\Repos\CSharpGettingStarted\WineGlass\WineGlass\obj\Debug\WineGlass.exe
+C:\Users\Owner\Source\Repos\CSharpGettingStarted\WineGlass\WineGlass\obj\Debug\WineGlass.pdb
