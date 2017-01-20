@@ -3,6 +3,7 @@ Hub for C# Programming Course Projects for school
 
 <h2>Projects</h2>
 Projects will be added as we progress through them in class...
+* [WineGlass](https://github.com/codersyntax/C-Programming-Projects/tree/master/WineGlass)
 
 
 <h2>Personal Practice Projects</h3>
