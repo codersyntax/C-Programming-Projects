@@ -1,0 +1,5 @@
+C:\Users\Owner\Source\Repos\CSharpGettingStarted\BigLetter\BigLetter\bin\Debug\BigLetter.exe.config
+C:\Users\Owner\Source\Repos\CSharpGettingStarted\BigLetter\BigLetter\bin\Debug\BigLetter.exe
+C:\Users\Owner\Source\Repos\CSharpGettingStarted\BigLetter\BigLetter\bin\Debug\BigLetter.pdb
+C:\Users\Owner\Source\Repos\CSharpGettingStarted\BigLetter\BigLetter\obj\Debug\BigLetter.exe
+C:\Users\Owner\Source\Repos\CSharpGettingStarted\BigLetter\BigLetter\obj\Debug\BigLetter.pdb

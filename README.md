@@ -4,6 +4,8 @@ Hub for C# Programming Course Projects for school
 <h2>Projects</h2>
 Projects will be added as we progress through them in class...
 * [WineGlass](https://github.com/codersyntax/C-Programming-Projects/tree/master/WineGlass)
+* [BigLetter](https://github.com/codersyntax/C-Programming-Projects/tree/master/BigLetter)
+* [BurmaShave](https://github.com/codersyntax/C-Programming-Projects/tree/master/BurmaShave)
 
 
 <h2>Personal Practice Projects</h3>
