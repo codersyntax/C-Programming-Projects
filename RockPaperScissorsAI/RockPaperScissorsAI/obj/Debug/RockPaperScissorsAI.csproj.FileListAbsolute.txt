@@ -1,0 +1,5 @@
+c:\users\jdmin\onedrive\documents\visual studio 2015\Projects\RockPaperScissorsAI\RockPaperScissorsAI\bin\Debug\RockPaperScissorsAI.exe.config
+c:\users\jdmin\onedrive\documents\visual studio 2015\Projects\RockPaperScissorsAI\RockPaperScissorsAI\bin\Debug\RockPaperScissorsAI.exe
+c:\users\jdmin\onedrive\documents\visual studio 2015\Projects\RockPaperScissorsAI\RockPaperScissorsAI\bin\Debug\RockPaperScissorsAI.pdb
+c:\users\jdmin\onedrive\documents\visual studio 2015\Projects\RockPaperScissorsAI\RockPaperScissorsAI\obj\Debug\RockPaperScissorsAI.exe
+c:\users\jdmin\onedrive\documents\visual studio 2015\Projects\RockPaperScissorsAI\RockPaperScissorsAI\obj\Debug\RockPaperScissorsAI.pdb
