@@ -1,0 +1,9 @@
+c:\users\tdl.mctechdev.009\documents\visual studio 2015\Projects\EggsInterativeGUI\EggsInterativeGUI\bin\Debug\EggsInterativeGUI.exe.config
+c:\users\tdl.mctechdev.009\documents\visual studio 2015\Projects\EggsInterativeGUI\EggsInterativeGUI\bin\Debug\EggsInterativeGUI.exe
+c:\users\tdl.mctechdev.009\documents\visual studio 2015\Projects\EggsInterativeGUI\EggsInterativeGUI\bin\Debug\EggsInterativeGUI.pdb
+c:\users\tdl.mctechdev.009\documents\visual studio 2015\Projects\EggsInterativeGUI\EggsInterativeGUI\obj\Debug\EggsInterativeGUI.csprojResolveAssemblyReference.cache
+c:\users\tdl.mctechdev.009\documents\visual studio 2015\Projects\EggsInterativeGUI\EggsInterativeGUI\obj\Debug\EggsInterativeGUI.Form1.resources
+c:\users\tdl.mctechdev.009\documents\visual studio 2015\Projects\EggsInterativeGUI\EggsInterativeGUI\obj\Debug\EggsInterativeGUI.Properties.Resources.resources
+c:\users\tdl.mctechdev.009\documents\visual studio 2015\Projects\EggsInterativeGUI\EggsInterativeGUI\obj\Debug\EggsInterativeGUI.csproj.GenerateResource.Cache
+c:\users\tdl.mctechdev.009\documents\visual studio 2015\Projects\EggsInterativeGUI\EggsInterativeGUI\obj\Debug\EggsInterativeGUI.exe
+c:\users\tdl.mctechdev.009\documents\visual studio 2015\Projects\EggsInterativeGUI\EggsInterativeGUI\obj\Debug\EggsInterativeGUI.pdb
